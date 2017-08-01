@@ -1,0 +1,68 @@
+body{
+	background: #000;
+	color:#fff;
+}
+/*fsdfsdfs*/
+
+body{
+	font-size: 16px;
+}
+h1{
+	color:red; 
+}
+/*h1{
+	color:rgb(58, 168, 31); 
+}*/
+/*h1{
+	color:4D9B44; 
+}*/
+/*h1{
+	color:rgba(58, 168, 31,.5); 
+}*/
+h1{
+	font-size: 20px;
+}
+p{
+	color: white;
+}
+
+p{
+	font-size: 1em;
+}
+/*div{
+	background: #000;
+	color: #fff;
+	width: 50%;
+}*/
+
+
+/*a{
+	color: orange;
+}
+*/
+
+/*p a{
+
+	font-size:30px;
+
+}*/
+
+.Prueba{
+
+	color:blue;
+
+}
+
+/*a [href="Valor o lo que este dentro"]{
+
+    color:green;
+	font-size:30px;
+
+}*/
+
+div {
+	width: 500px;
+	/*height: 300px*/
+	background: #ff8000;
+}
+
